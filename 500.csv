@@ -1,0 +1,3 @@
+Name,Range,Games Played,Ideal Max Tries,Max Tries,Max Tries Dups,Min Tries,Min Tries Dups,Avg of Tries
+Robin,500,5,9,9,0,4,1,6.6
+Computer,500,5,9,9,2,4,0,7.6
